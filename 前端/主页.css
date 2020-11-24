@@ -68,3 +68,19 @@ body{
 .flashimg{
     width: 100%;
 }
+
+.lists{
+    display: flex;
+    flex-direction: column;
+    padding-left: 50px;
+    margin-top: 50px;
+    box-shadow: 0 15px 3px #5F7E8A ;
+    margin-bottom: 100px;
+}
+
+.list-id{
+    font-size: 30px;
+    color:#5F7E8A;
+    font-weight: bold;
+    margin-bottom: 10px;
+}

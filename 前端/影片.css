@@ -1,0 +1,28 @@
+
+.line{
+    display: flex;
+    flex-direction: row;
+    margin-left: 20px;
+    margin-bottom: 40px;
+}
+
+.mov-img{
+    width: 180px;
+    border-radius: 5%;
+    
+}
+
+.mov-box{
+    margin-left: 35px;
+}
+
+.p1{
+    font-size: 25px;
+    margin-top:5px;
+    margin-bottom: 3px;
+}
+
+.p2{
+    margin: 0;
+    font-size: 10px;
+}
